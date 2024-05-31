@@ -30,3 +30,24 @@ The live demo here: [DEMO LINK](https://ViktoriiaRepo.github.io/MET-landing-page
 ## Design Mockup
 
 The design mockup on Figma: [MET Landing Page Design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
+
+<h3>Quick Start Guide</h3>
+
+<h4>Prerequisites</h4>
+
+<ul>
+  <li>Ensure Node.js is installed. Recommended version: <code>>=14.0.0</code>.</li>
+</ul>
+
+<h4>Installation Steps</h4>
+
+<ol>
+  <li><strong>Clone the repository</strong><br>
+    <code>git clone git@github.com:ViktoriiaRepo/todo-app.git</code></li>
+  <li><strong>Navigate to the project directory:</strong><br>
+    <code>cd MET-landing-page</code></li>
+  <li><strong>Install the dependencies:</strong><br>
+    <code>npm install</code></li>
+  <li><strong>Launch the project:</strong><br>
+    <code>npm start</code></li>
+</ol>
